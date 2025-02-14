@@ -29,7 +29,7 @@ Before you begin, ensure you have installed:
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/Accredian-frontend-task.git
+git clone https://github.com/AmbikaMandhaniya/Accredian-frontend-task.git
 cd Accredian-frontend-task
 ```
 
@@ -48,7 +48,7 @@ cp .env.sample .env
 npm start
 ```
 
-The application will open in your default browser at `http://localhost:3000`
+The application will open in your default browser at `http://localhost:3000\`
 
 ## Project Structure
 
@@ -70,7 +70,7 @@ public/
 
 Create a `.env` file in the root directory with the following variables:
 ```
-REACT_APP_API_URL=http://localhost:3000
+REACT_APP_API_URL=http://localhost:3000\
 ```
 
 ## Available Scripts
